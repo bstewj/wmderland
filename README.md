@@ -1,2 +1,2 @@
-# debian-linux
+# wmderland wm
 for debian based distros
